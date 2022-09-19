@@ -1,0 +1,24 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "An App to manage your tasks",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "Productivity",
+    "Management"
+  ],
+  "author": "Ananya Dhananjaya <ananya.dhananjaya1998@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^2.1.0",
+    "vite": "^3.1.2"
+  }
+}
